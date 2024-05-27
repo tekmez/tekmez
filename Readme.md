@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tuncay. and I'm a fontend developer, from Istanbul/Turkey</p>
+<p align="left">I'm a fontend developer, from Istanbul/Turkey</p>
 
 ###
 
